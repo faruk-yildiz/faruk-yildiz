@@ -6,6 +6,11 @@ I am Faruk Yıldız. I am a tech enthusiast & software developer. Always open to
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-2EC866?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/omerfarukyiildiz)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omerfarukyiildiz@gmail.com)](mailto:kanna6501@gmail.com)
 
+## Hackerrank Badges :muscle:
+<img src="https://hrcdn.net/fcore/assets/generated-badges/java_level_3_stars_5_linkedin-76cbc0ca6b.png" alt="Java_Badge" width="200" display="inline"/><img src="https://hrcdn.net/fcore/assets/generated-badges/python_level_3_stars_5_linkedin-f25f994a6e.png" alt="Python_Badge" width="200"/>
+<img src="https://hrcdn.net/fcore/assets/generated-badges/problem-solving_level_3_stars_5_linkedin-87839cf294.png" alt="Problem_Solving" width="200"/>
+
+
 ## ⚡ Tech I Use
 
 ### Programming Languages
