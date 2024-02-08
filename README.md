@@ -95,11 +95,14 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=faruk-yildiz&show_icons=true&locale=en&layout=compact" alt="faruk-yildiz" /></p>
 
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=faruk-yildiz&show_icons=true&locale=en"  alt="faruk-yildiz" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faruk-yildiz&" alt="faruk-yildiz" />
+</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faruk-yildiz" alt="faruk-yildiz" /></a> </p>
 
-<div style="display: flex; flex-direction: row;">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faruk-yildiz&" alt="faruk-yildiz" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=faruk-yildiz&show_icons=true&locale=en"  alt="faruk-yildiz" />
-</div>
-
-<p style="margin:2 0 0 0;" align="left"><img src="https://komarev.com/ghpvc/?username=faruk-yildiz&label=Profile%20views&color=0e75b6&style=flat" alt="faruk-yildiz" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=faruk-yildiz&label=Profile%20views&color=0e75b6&style=flat" alt="faruk-yildiz" /></p>
