@@ -97,7 +97,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faruk-yildiz" alt="faruk-yildiz" /></a> </p>
 
-<p>
+<p align="left">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faruk-yildiz&" alt="faruk-yildiz" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=faruk-yildiz&show_icons=true&locale=en"  alt="faruk-yildiz" />
 </p>
