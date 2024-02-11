@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faruk Yıldız</h1>
-<h3 align="center">A highly motivated software developer with one year of experience, specializing back-end development. Also interested in computer networks, cyber security.</h3>
+<h3 align="center">A highly motivated software developer with one year of experience, specializing back-end development. Also interested in computer network and cyber security.</h3>
 
 <h2 align="center">Hackerrank Badges 💪</h2>
 <div align="center">
